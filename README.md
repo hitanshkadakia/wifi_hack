@@ -7,3 +7,7 @@ Steps to follow
 
 2) apt install python2
 
+3) apt install git
+
+4) git clone https://github.com/hitanshkadakia/wifi_hack
+
