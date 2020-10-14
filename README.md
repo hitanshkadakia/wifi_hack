@@ -15,3 +15,8 @@ Steps to follow
 
 6) ls
 
+7) chmod + *
+
+8) ls
+
+9) python2 WifiHacking.py
