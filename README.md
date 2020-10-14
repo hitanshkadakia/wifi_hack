@@ -11,3 +11,7 @@ Steps to follow
 
 4) git clone https://github.com/hitanshkadakia/wifi_hack
 
+5) cd wifi_hack
+
+6) ls
+
